@@ -1,123 +1,78 @@
-<div align="center">
+# Hi, I'm Philip.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563EB,100:2DD4BF&height=200&section=header&text=Hello%20World!%20I'm%20Philip%20👋&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%"/>
+I'm a Computer Engineering student at the Polytechnic University of the Philippines who enjoys turning operational problems into straightforward web software.
 
-<br/>
+Most of my work sits between the interface and the API: designing useful workflows, keeping permissions predictable, and making data easy to act on. I care more about software being dependable and understandable than adding complexity for its own sake.
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2DD4BF&center=true&vCenter=true&width=500&lines=Full-Stack+Web+Developer;Computer+Engineering+Student+%40+PUP;Building+clean%2C+scalable+web+apps)
+[Portfolio](https://phil-portforlio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/philip-orogo/) · [Email](mailto:johnorogo20@gmail.com)
 
-</div>
+## What I'm working with
 
----
+**Web** — TypeScript, JavaScript, React, Next.js, Tailwind CSS  
+**Backend** — Node.js, Express, REST APIs, Sequelize  
+**Data** — Microsoft SQL Server, MongoDB, Supabase  
+**Workflow** — Git, GitHub Actions, Postman, Vercel, Figma
 
-### 👨‍💻 About Me
+I also build with Flutter when a project calls for a mobile interface.
 
-- 🎓 4th-year Computer Engineering student at **Polytechnic University of the Philippines (PUP)**
-- 💻 Focused on **full-stack web development**
-- 🔧 Experienced in **backend & API development**
-- 🗄️ Skilled in **database design and integration**
-- 🚀 Comfortable with **hosting, deployment & version control**
+## Selected work
 
----
+### CGOC Service Desk
 
-### 🛠️ Tech Stack
+A role-based IT ticketing system built to give employees and IT teams one place to submit, assign, track, and resolve support requests.
 
-**Frontend Development**
+I designed the frontend around the actual responsibilities of four user groups: employees, IT members, IT heads, and administrators. The system includes protected routes, token refresh, notifications, file attachments, technician assignment, bulk resolution, user administration, and audit logs. Its dashboards surface live operational metrics without getting in the way of day-to-day ticket work.
 
-<p>
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/React-2563EB?style=for-the-badge&logo=react&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-2DD4BF?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-2563EB?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-2563EB?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-2DD4BF?style=for-the-badge&logo=css3&logoColor=black"/>
-<img src="https://img.shields.io/badge/Tailwind_CSS-2563EB?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
-<img src="https://img.shields.io/badge/Flutter-2DD4BF?style=for-the-badge&logo=flutter&logoColor=black"/>
-</p>
+`React` `Tailwind CSS` `Node.js` `Express` `SQL`
 
-**Backend Development**
+## A little more about me
 
-<p>
-<img src="https://img.shields.io/badge/Node.js-2563EB?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express.js-2DD4BF?style=for-the-badge&logo=express&logoColor=black"/>
-<img src="https://img.shields.io/badge/Sequelize-2563EB?style=for-the-badge&logo=sequelize&logoColor=white"/>
-</p>
+- I'm currently completing my fourth year in Computer Engineering at PUP.
+- I like backend and API work, especially permissions, data modeling, and integrations.
+- I'm comfortable taking a project from local development through deployment.
+- Outside GitHub, you can find me on [Instagram](https://www.instagram.com/z.ayai/) or [Facebook](https://www.facebook.com/filep.des/).
 
-**Databases**
+<!--
+When the CGOC Service Desk repository or live demo is public, add the links
+directly below its title. Specific project links are more useful than generic
+"Source Code" and "Live Demo" badges.
+-->
+# Hi, I'm Philip.
 
-<p>
-<img src="https://img.shields.io/badge/Microsoft_SQL_Server-2563EB?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
-<img src="https://img.shields.io/badge/MongoDB-2DD4BF?style=for-the-badge&logo=mongodb&logoColor=black"/>
-<img src="https://img.shields.io/badge/Supabase-2563EB?style=for-the-badge&logo=supabase&logoColor=white"/>
-</p>
+I'm a Computer Engineering student at the Polytechnic University of the Philippines who enjoys turning operational problems into straightforward web software.
 
-**Tools & Platforms**
+Most of my work sits between the interface and the API: designing useful workflows, keeping permissions predictable, and making data easy to act on. I care more about software being dependable and understandable than adding complexity for its own sake.
 
-<p>
-<img src="https://img.shields.io/badge/Git-2563EB?style=for-the-badge&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2DD4BF?style=for-the-badge&logo=githubactions&logoColor=black"/>
-<img src="https://img.shields.io/badge/Postman-2563EB?style=for-the-badge&logo=postman&logoColor=white"/>
-<img src="https://img.shields.io/badge/VS_Code-2DD4BF?style=for-the-badge&logo=visualstudiocode&logoColor=black"/>
-<img src="https://img.shields.io/badge/Figma-2563EB?style=for-the-badge&logo=figma&logoColor=white"/>
-</p>
+[Portfolio](https://phil-portforlio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/philip-orogo/) · [Email](mailto:johnorogo20@gmail.com)
 
-**Deployment**
+## What I'm working with
 
-<p>
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-<img src="https://img.shields.io/badge/Hostinger-2DD4BF?style=for-the-badge&logo=hostinger&logoColor=black"/>
-</p>
+**Web** — TypeScript, JavaScript, React, Next.js, Tailwind CSS  
+**Backend** — Node.js, Express, REST APIs, Sequelize  
+**Data** — Microsoft SQL Server, MongoDB, Supabase  
+**Workflow** — Git, GitHub Actions, Postman, Vercel, Figma
 
----
+I also build with Flutter when a project calls for a mobile interface.
 
-### 📌 Featured Project
+## Selected work
 
-<p>
-<img src="https://img.shields.io/badge/🚀_Live_Demo-2DD4BF?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/📂_Source_Code-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
+### CGOC Service Desk
 
-**CGOC Service Desk – IT Ticketing System**
+A role-based IT ticketing system built to give employees and IT teams one place to submit, assign, track, and resolve support requests.
 
-A role-based IT service desk platform designed to manage support requests, assign technicians, track ticket progress, and streamline issue resolution across different user roles.
+I designed the frontend around the actual responsibilities of four user groups: employees, IT members, IT heads, and administrators. The system includes protected routes, token refresh, notifications, file attachments, technician assignment, bulk resolution, user administration, and audit logs. Its dashboards surface live operational metrics without getting in the way of day-to-day ticket work.
 
-Engineered a role-based IT service desk frontend that centralizes ticket submission, assignment, tracking, and resolution for employees, IT members, IT heads, and administrators. Implemented secure authentication, permission-based route protection, token refresh, notifications, attachment handling, and responsive dashboards with real-time operational metrics. Developed ticket management workflows including search, filtering, technician assignment, priority and status updates, bulk resolution, user administration, and audit logging.
+`React` `Tailwind CSS` `Node.js` `Express` `SQL`
 
-**Tech Stack:** React • Tailwind CSS • Node.js • Express.js
+## A little more about me
 
----
+- I'm currently completing my fourth year in Computer Engineering at PUP.
+- I like backend and API work, especially permissions, data modeling, and integrations.
+- I'm comfortable taking a project from local development through deployment.
+- Outside GitHub, you can find me on [Instagram](https://www.instagram.com/z.ayai/) or [Facebook](https://www.facebook.com/filep.des/).
 
-### 📊 GitHub Analytics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=philyai&show_icons=true&theme=dark&hide_border=true&title_color=2DD4BF&icon_color=2563EB&text_color=ffffff&bg_color=0d1117"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=philyai&theme=dark&hide_border=true&background=0d1117&ring=2563EB&fire=2DD4BF&currStreakLabel=2DD4BF"/>
-</p>
-
----
-
-### 🌐 Connect with Me
-
-<p>
-<a href="mailto:johnorogo20@gmail.com">
-<img src="https://img.shields.io/badge/Email-2563EB?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/philip-orogo/">
-<img src="https://img.shields.io/badge/LinkedIn-2DD4BF?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-<a href="https://phil-portforlio.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-<a href="https://www.facebook.com/filep.des/">
-<img src="https://img.shields.io/badge/Facebook-2DD4BF?style=for-the-badge&logo=facebook&logoColor=black"/>
-</a>
-<a href="https://www.instagram.com/z.ayai/">
-<img src="https://img.shields.io/badge/Instagram-2563EB?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-</p>
-
-</div>
+<!--
+When the CGOC Service Desk repository or live demo is public, add the links
+directly below its title. Specific project links are more useful than generic
+"Source Code" and "Live Demo" badges.
+-->
