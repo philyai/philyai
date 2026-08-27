@@ -14,10 +14,10 @@
 
 ## About
 
-- Fourth-year **Computer Engineering** student at the Polytechnic University of the Philippines
-- Focused on full-stack applications that solve everyday operational problems
-- Most interested in APIs, permission systems, data modeling, and useful interfaces
-- Comfortable taking a project from local development through deployment
+- 4th-year Computer Engineering student at the Polytechnic University of the Philippines
+- Passionate about building modern, responsive, and scalable web applications
+- Interested in full-stack development, APIs, databases, and system integration
+- Experienced in taking projects from development and testing through deployment and version control
 
 ## Tech stack
 
